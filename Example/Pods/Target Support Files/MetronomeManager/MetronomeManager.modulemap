@@ -1,0 +1,6 @@
+framework module MetronomeManager {
+  umbrella header "MetronomeManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

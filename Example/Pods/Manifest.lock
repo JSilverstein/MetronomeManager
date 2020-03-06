@@ -1,0 +1,27 @@
+PODS:
+  - MetronomeManager (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - MetronomeManager (from `../`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  MetronomeManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MetronomeManager: 7c7b0b9fba8efa5e5633af6e7ec0a494e2d1b599
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 5bbe0ab52a918ff34f7b19ef95b4ef047c3cd9f9
+
+COCOAPODS: 1.9.0
